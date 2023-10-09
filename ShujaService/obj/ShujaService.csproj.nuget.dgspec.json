@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shuja\\Source\\Repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj": {}
+    "C:\\Users\\Shuja\\source\\repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shuja\\Source\\Repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj": {
+    "C:\\Users\\Shuja\\source\\repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shuja\\Source\\Repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj",
+        "projectUniqueName": "C:\\Users\\Shuja\\source\\repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj",
         "projectName": "ShujaService",
-        "projectPath": "C:\\Users\\Shuja\\Source\\Repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj",
+        "projectPath": "C:\\Users\\Shuja\\source\\repos\\OnlineTestManagementSystem1\\ShujaService\\ShujaService.csproj",
         "packagesPath": "C:\\Users\\Shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shuja\\Source\\Repos\\OnlineTestManagementSystem1\\ShujaService\\obj\\",
+        "outputPath": "C:\\Users\\Shuja\\source\\repos\\OnlineTestManagementSystem1\\ShujaService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",

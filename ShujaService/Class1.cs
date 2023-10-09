@@ -5,6 +5,7 @@
         public void ShujaFunction()
         {
             Console.WriteLine("Main Pagal Hoon!");
+            Console.WriteLine("faahd b Pagal Hai!");
         }
     }
 }
