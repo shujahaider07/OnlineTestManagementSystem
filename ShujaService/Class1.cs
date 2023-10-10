@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Main Pagal Hoon!");
             Console.WriteLine("faahd b Pagal Hai!");
+            Console.WriteLine("Areeb  b Pagal Hai!");
         }
     }
 }
